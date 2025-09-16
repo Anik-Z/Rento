@@ -1,0 +1,6 @@
+Modules:
+- Login & Signup
+- KYC Verification
+- Booking System
+- Payment
+- Admin Dashboard

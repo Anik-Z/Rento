@@ -1,0 +1,2 @@
+This will contain the main backend code for Rento.
+Example: Flask or Node.js server.

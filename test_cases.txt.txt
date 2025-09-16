@@ -1,0 +1,3 @@
+Test Case 1: User login
+Steps: Enter username & password
+Expected: User dashboard opens
